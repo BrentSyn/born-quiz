@@ -1,6 +1,6 @@
 # born-quiz
 
-A simple quiz that uses Vue and firestore.
+A simple quiz that uses Vue and Firestore.
 
 For small applications like this I like to use Vue for its simplicity, flexible work-style and ability to easy integrate it into other apps. 
 
